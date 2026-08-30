@@ -1,4 +1,4 @@
-```javascript
+
 /* =========================================================
    BCA TIME TABLE MANAGEMENT SYSTEM
    Complete JavaScript
